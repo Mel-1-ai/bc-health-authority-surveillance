@@ -1,0 +1,49 @@
+health_authority,indicator,reporting_hsdas,mean_prevalence_pct,min_hsda_pct,max_hsda_pct
+Northern Health,"Body mass index, adjusted self-reported, adult (18 years and over), obese",3,37.52,26.4,50.2
+Interior Health,"Body mass index, adjusted self-reported, adult (18 years and over), obese",4,31.23,14.1,42.2
+Fraser Health,"Body mass index, adjusted self-reported, adult (18 years and over), obese",1,24.57,20.0,28.0
+Vancouver Coastal Health,"Body mass index, adjusted self-reported, adult (18 years and over), obese",1,14.32,12.5,17.2
+Fraser Health,"Body mass index, adjusted self-reported, adult (18 years and over), overweight",1,40.83,34.0,45.7
+Northern Health,"Body mass index, adjusted self-reported, adult (18 years and over), overweight",3,33.97,17.9,42.3
+Interior Health,"Body mass index, adjusted self-reported, adult (18 years and over), overweight",4,31.21,16.3,38.1
+Vancouver Coastal Health,"Body mass index, adjusted self-reported, adult (18 years and over), overweight",1,30.23,22.3,35.0
+Northern Health,"Current smoker, daily",3,13.92,7.6,21.5
+Interior Health,"Current smoker, daily",4,11.33,4.3,18.9
+Fraser Health,"Current smoker, daily",1,7.83,6.0,10.5
+Vancouver Coastal Health,"Current smoker, daily",1,3.6,2.2,4.9
+Northern Health,"Current smoker, daily or occasional",3,18.35,9.7,30.4
+Interior Health,"Current smoker, daily or occasional",4,13.99,5.0,21.2
+Fraser Health,"Current smoker, daily or occasional",1,9.38,6.6,14.1
+Vancouver Coastal Health,"Current smoker, daily or occasional",1,7.75,3.5,11.6
+Northern Health,Diabetes,3,11.88,7.0,19.1
+Fraser Health,Diabetes,1,11.33,3.4,20.8
+Interior Health,Diabetes,4,9.93,4.9,14.1
+Vancouver Coastal Health,Diabetes,1,7.07,2.2,13.7
+Northern Health,Has a regular healthcare provider,3,87.59,74.5,95.9
+Fraser Health,Has a regular healthcare provider,1,85.53,76.2,95.3
+Interior Health,Has a regular healthcare provider,4,83.28,60.2,95.1
+Vancouver Coastal Health,Has a regular healthcare provider,1,80.53,63.8,96.5
+Northern Health,Heavy drinking,3,22.07,9.4,31.8
+Interior Health,Heavy drinking,4,21.48,12.0,39.4
+Vancouver Coastal Health,Heavy drinking,1,16.07,4.7,22.0
+Fraser Health,Heavy drinking,1,14.82,6.4,19.5
+Northern Health,High blood pressure,3,29.77,10.4,38.8
+Fraser Health,High blood pressure,1,28.93,7.8,46.0
+Interior Health,High blood pressure,4,25.55,9.1,43.8
+Vancouver Coastal Health,High blood pressure,1,22.9,4.8,42.3
+Northern Health,"Perceived health, fair or poor",3,18.0,6.9,23.1
+Interior Health,"Perceived health, fair or poor",4,15.21,4.4,24.6
+Fraser Health,"Perceived health, fair or poor",1,14.82,7.1,21.9
+Vancouver Coastal Health,"Perceived health, fair or poor",1,13.68,6.6,22.9
+Vancouver Coastal Health,"Perceived health, very good or excellent",1,57.88,47.6,69.9
+Interior Health,"Perceived health, very good or excellent",4,55.29,43.0,71.1
+Fraser Health,"Perceived health, very good or excellent",1,52.05,46.3,64.4
+Northern Health,"Perceived health, very good or excellent",3,52.0,31.8,71.2
+Vancouver Coastal Health,"Perceived mental health, fair or poor",1,16.52,12.2,19.2
+Northern Health,"Perceived mental health, fair or poor",3,15.46,6.6,27.5
+Fraser Health,"Perceived mental health, fair or poor",1,14.52,9.7,21.5
+Interior Health,"Perceived mental health, fair or poor",4,14.05,7.4,26.7
+Interior Health,"Perceived mental health, very good or excellent",4,55.5,41.2,67.2
+Fraser Health,"Perceived mental health, very good or excellent",1,54.4,48.0,62.0
+Vancouver Coastal Health,"Perceived mental health, very good or excellent",1,52.0,46.0,57.2
+Northern Health,"Perceived mental health, very good or excellent",3,49.0,33.1,67.2

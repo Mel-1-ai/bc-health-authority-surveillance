@@ -1,0 +1,13 @@
+health_authority,data_quality_flag,record_count,pct_of_ha_records
+Fraser Health,Reliable,299,56.0
+Fraser Health,E,207,38.8
+Fraser Health,F,28,5.2
+Interior Health,E,890,47.3
+Interior Health,Reliable,833,44.3
+Interior Health,F,157,8.4
+Northern Health,E,738,55.6
+Northern Health,Reliable,474,35.7
+Northern Health,F,115,8.7
+Vancouver Coastal Health,Reliable,287,57.4
+Vancouver Coastal Health,E,185,37.0
+Vancouver Coastal Health,F,28,5.6
